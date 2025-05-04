@@ -91,7 +91,7 @@ const Footer: React.FC = () => {
 
         {/* Copyright */}
         <div className="py-6 text-center border-t border-gray-700">
-          <p className="text-sm">© 2025 Flipkart . All Rights Reserved.</p>
+          <p className="text-sm">© 2025 Flipkart Clone . All Rights Reserved.</p>
         </div>
       </div>
     </footer>
